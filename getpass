@@ -2,9 +2,9 @@ from getpass import getpass
 
 nome =(input('digite seu nome '))
 senha = getpass("digite sua senha")
-if nome == "marcela" and senha == "666":
+if nome == "name" and pass == "666":
   if senha == "666" :
-    print('aceito')
+    print('yes')
   else :
-    print('negado')
+    print('no')
     
